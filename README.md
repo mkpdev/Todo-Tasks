@@ -11,7 +11,7 @@ The backend is written in Django, django-restframework, which consists of an API
 Clone this repo and cd:
 
 ```
-git clone ...
+git clone https://github.com/mkpdev/Todo-Tasks.git
 cd Todo-Tasks
 ```
 
